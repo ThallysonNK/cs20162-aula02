@@ -1,4 +1,4 @@
-# exemplo
+# Exercícios
 Projeto de referência (exemplo) básico em Java.
 
 ## Lembretes...
